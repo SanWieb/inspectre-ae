@@ -28,6 +28,10 @@ cd kernel
 ./build_kernel.sh
 ```
 
+Note: If your architecture is not supported by the Ubuntu config,
+creating a config via `make localmodconfig` should also work. The tests should
+not be dependent on a kernel version, but we did not test for it either.
+
 Please add 'isolcpus=2,3' to the kernel boot parameters. Replace
 2 and 3 with the core you want to test the PoC on and the corresponding
 sibling.
