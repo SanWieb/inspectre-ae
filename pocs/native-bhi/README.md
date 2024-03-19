@@ -9,6 +9,13 @@ This folder contains Native BHI PoC cgroup_seqfile_show.
 
 ## Creating the test setup
 
+Install dependencies
+
+``` bash
+cd ../poc-common
+./install_dependencies.sh
+```
+
 Build and install the kernel:
 
 ``` bash

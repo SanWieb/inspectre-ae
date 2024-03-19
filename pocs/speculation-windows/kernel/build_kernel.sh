@@ -12,18 +12,20 @@ cd linux-6.6-rc4
 cp ../config_ubuntu .config
 
 ## Adjust the config
+
+scripts/config --set-val CONFIG_LOCALVERSION '"-fineibt"'
+# Enable FineIBT
+scripts/config -e CONFIG_FINEIBT
+scripts/config -e CONFIG_CFI_CLANG
+
 # Disable modules signing
 scripts/config -d SECURITY_LOCKDOWN_LSM -d MODULE_SIG -d MODULE_SIG_ALL
-# Disable USBAN out of bounds checks (Not enabled on default Linux)
-scripts/config -d CONFIG_UBSAN
 # Enable MSR \ CPUID
 scripts/config -e CONFIG_X86_MSR -e CONFIG_X86_CPUID
 # Disable ubuntu specific
 scripts/config -d CONFIG_SYSTEM_REVOCATION_KEYS -d CONFIG_SYSTEM_TRUSTED_KEYS
 # IBT (Enabled on default Linux)
 scripts/config -e CONFIG_X86_KERNEL_IBT
-# Prevent ZSTD errors
-scripts/config -e CONFIG_KERNEL_LZ4 -d CONFIG_KERNEL_ZSTD
 # Disable debug build
 scripts/config -d CONFIG_ATH11K_DEBUGFS
 scripts/config -d CONFIG_RTW89_DEBUG
@@ -38,14 +40,13 @@ scripts/config --undefine DEBUG_INFO
 scripts/config --undefine DEBUG_INFO_SPLIT
 scripts/config --undefine DEBUG_INFO_REDUCED
 scripts/config --undefine DEBUG_INFO_COMPRESSED
-scripts/config --set-val  DEBUG_INFO_NONE       y
-scripts/config --set-val  DEBUG_INFO_DWARF5     n
+scripts/config --set-val  DEBUG_INFO_NONE y
+scripts/config --set-val  DEBUG_INFO_DWARF5 n
 
-make olddefconfig
+make CC=clang-16 olddefconfig
 
-# Build and install
-make -j `nproc`
-make modules_install -j `nproc`
-make install -j `nproc`
+make CC=clang-16  -j `nproc`
+make CC=clang-16 modules_install -j `nproc`
+make CC=clang-16 install -j `nproc`
 
-echo "Please reboot into the kernel: linux-6.6.0-rc4"
+echo "Please reboot into the kernel: linux-6.6.0-rc4-fineibt"
