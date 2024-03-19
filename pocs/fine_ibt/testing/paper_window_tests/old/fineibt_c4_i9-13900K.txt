@@ -1,0 +1,2200 @@
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783246
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f6ac1200000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f6ac1201000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6806      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6732      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6823      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6722      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6809      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6781      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6860      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6765      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6781      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6729      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783270
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f2f01e00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f2f01e01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6760      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6681      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6692      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6800      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6715      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6696      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6725      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6755      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6692      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6663      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783294
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f2df5600000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f2df5601000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000   9122  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6768      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6758      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6645      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6770      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6784      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6827      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6795      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6788      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6697      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6657      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783318
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fe497e00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fe497e01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000   9990  10000   9999  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000  10000   9962   9972  10000   9959   9767   5525    569      9      0      0      0      0      0      0 
+TEST  10000  10000   9996  10000   9991   9953   9796   5650    554      2      0      0      0      0      0      0 
+TEST  10000  10000   9997  10000  10000   9965   9769   5526    548      5      0      0      0      0      0      0 
+TEST  10000  10000   9995  10000  10000   9954   9759   5581    530      5      0      0      0      0      0      0 
+TEST  10000  10000   9988  10000  10000   9944   9801   4903    542      3      0      0      0      0      0      0 
+TEST  10000  10000   9987   9987  10000   9946   9778   5599    558      5      0      0      0      0      0      0 
+TEST  10000  10000   9996   9991   9946   9943   9768   5612    549      4      0      0      0      0      0      0 
+TEST  10000  10000  10000   9981  10000   9963   9788   5586    490      2      0      0      0      0      0      0 
+TEST  10000  10000  10000   9997   9986   9954   9762   5571    546      2      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9955   9962   9775   5565    561      8      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783342
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f5805a00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f5805a01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6688      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6760      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6706      0      1      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6610      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6797      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6785      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6735      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6777      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6751      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6704      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783366
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fe9fce00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fe9fce01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   9975   9953   9671   2312   1327      2      0     25      0      0      0      0      0      0      0 
+TEST  10000   9984   9946   9678   2302   1270      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9987   9942   9689   2455   1251    148     94      0      0      0      0      0      0      0      0 
+TEST  10000   9985   9954   9637   2361   1296     43      1      0      2      0      0      0      0      0      0 
+TEST  10000   9983   9946   9662   2338   1263     27      0     27      0      0      0      0      0      0      0 
+TEST  10000   9988   9953   9677   2405   1257     60      1     26      0      0      0      0      0      0      0 
+TEST  10000   9992   9942   9701   2311   1330      2     31     27      0      0      0      0      0      0      0 
+TEST  10000   9979   9939   9636   2284   1182      2      1     57      0      0      0      0      0      0      0 
+TEST  10000   9985   9948   9654   2343   1219      0      0      0      2      0      0      0      0      0      0 
+TEST  10000   9981   9941   9667   2339   1245      2      2      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783391
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f4802200000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f4802201000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY    9999  10000  10000  10000  10000  10000  10000  10000   8679  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6610      2      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6717      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6714      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6767      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6812      2      0      0      1      1      1      0      0      0      0      0      0      0      0 
+TEST  10000   6617      1      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6737      2      0      1      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6792      2      4      1      1      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6882      3      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6635      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783415
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f1f92600000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f1f92601000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6853      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6782      4      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6785      2      2      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6856      3      1      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6720      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6814      1      2      0      0      0      0      1      0      0      0      0      0      0      0 
+TEST  10000   6830      0      2      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6808      1      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6791      3      2      0    463      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6703      2      0      1      1      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783439
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f6b36a00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f6b36a01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000   9999  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6893      3      2    417      2      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6875      1      4      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6770      3      3      5      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6796      8      4      2      3      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   7039      4      3      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6896      4      2      1      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6811      7      4      1      0      2      0      0      0      0      0      0      0      0      0 
+TEST  10000   6673      5      2      4      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6687      0      2      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6805      4      1      1      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783464
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fa63ac00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fa63ac01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6830      5      2      2      0      1      0      0      0      0      0      0      0      0      0 
+TEST   9999   6806      3      2      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6896      4      4      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6996      1      2      2      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6864      1      4      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6724      0      3      2      2      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6701      3      1      1      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6782      3      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6844      3      4      1      2      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6799      1      1      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783489
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fcc0fa00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fcc0fa01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000   9999  10000  10000  10000  10000  10000   8666  10000  10000  10000  10000 
+TEST  10000   6849      2      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6808      1      2      1      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6872      0      1      2      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6805      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6781      3      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6786      4      1      1      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6873      3      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6857      3      6      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6900      0      2      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6748      1      0      4      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783513
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f0e5a400000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f0e5a401000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6682      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6752      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6704      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6829      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6723      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6761      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6736      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6795      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6812      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6773      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783537
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7ff858600000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7ff858601000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9999  10000  10000  10000 
+TEST  10000  10000   9999   9999   9998   9214   6267   2676     27      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9992   9083   6295   2722     27      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9999   9994   9256   6197   2755     27      1      0      0      0      0      0      0 
+TEST   9999  10000  10000  10000   9998   9304   6253   2755     32      1      0      0      0      0      0      0 
+TEST  10000  10000   9999  10000   9996   9201   6185   2798     26      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9998   9229   6192   2762     18      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   8876   9998   9249   6337   2763     23      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9999   9251   6303   2776     16      1      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000   9146   6293   2754     26      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9998   9169   6196   2751     24      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783561
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fa155200000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fa155201000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000  10000  10000  10000  10000   9133   6309   2602     32      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000   9174   6227   2617     23      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9998   9204   6305   2679     30      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9998   9996   9196   6225   2650     17      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9998   9170   6255   2771     19      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000   9224   6270   2696     26      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000   9201   6233   2707     20      0      0      0      0      0      0      0 
+TEST  10000  10000   9999  10000  10000   9250   6284   2678     25      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9998   9132   6264   2761     26      1      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9998   9159   6162   2596     30      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783585
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f7a8e400000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f7a8e401000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000   9999  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6856      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6889      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6887      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6822      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6815      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6829      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6758      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6819      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6778      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6832      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783609
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f7527a00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f7527a01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000  10000  10000  10000   9998   9150   6212   2683     22      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9995   9209   6159   2619     20      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000   9202   6325   2747     25      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9997   9168   6192   2388     34      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9999   9999   9191   6215   2575     34      1      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000   9204   6229   2710     27      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9946   9137   6272   2669     33      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9999   9999   9132   6348   2642     23      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9999   9997   9156   6169   2694     22      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9999   9999   9100   5568   2694     29      2      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783634
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f79ec400000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f79ec401000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9298  10000  10000  10000 
+TEST  10000   6679      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6896      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6886      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6811      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST   8714   6716      1      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6888      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6695      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6847      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6821      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6883      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783658
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f3ed8200000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f3ed8201000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6765      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6771      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6863      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6769      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6692      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6849      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6796      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6782      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6823      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6983      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783682
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f159ee00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f159ee01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   8888  10000  10000  10000  10000  10000 
+TEST  10000   6710      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6748      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6742      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6785      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6691      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6779      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6680      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6759      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6732      1      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6801      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783706
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f9208200000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f9208201000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   8662  10000 
+TEST  10000   6789      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6732      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6808      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6635      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6759      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6716      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6772      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6698      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6788      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6763      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783730
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f8502600000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f8502601000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9681  10000 
+TEST  10000   6870      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6875      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6945      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6912      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6904      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6843      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6801      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6782      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6835      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6819      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783755
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f428c000000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f428c001000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6764      1      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6728      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6709      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6693      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6728      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6779      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6654      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6723      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6781      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6679      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783779
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fa37ee00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fa37ee01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6901      1      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6785      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6865      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6857      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6826      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6807      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6812      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6842      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6949      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6937      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783803
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fc3bea00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fc3bea01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000   8718  10000  10000   9999  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   9977   9956   9652   2382   1253      2     57    101      0      0      0      0      0      0      0 
+TEST  10000   9987   9960   9650   2332   1240      0      2      0      0      0      0      0      0      0      0 
+TEST  10000   9988   9942   9665   2297   1302      0      1     29      0      0      0      0      0      0      0 
+TEST  10000   9988   9944   9698   2346   1216      2      0      0      1      0      0      0      0      0      0 
+TEST  10000   9984   9939   9708   2370   1280      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9990   9939   9705   2286   1317      4      1      0      0      0      0      0      0      0      0 
+TEST  10000   9986   9959   9698   2317   1266      3      0      0      0      0      0      0      0      0      0 
+TEST  10000   9984   9951   9667   2372   1258      1      1      0      0      0      0      0      0      0      0 
+TEST  10000   9982   9946   9711   2322   1334      0      3      0      0      0      0      0      0      0      0 
+TEST  10000   9984   9956   9694   2320   1248      5      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783827
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fa7b8a00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fa7b8a01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6804      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6757      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6721      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6796      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6799      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6739      0      0    248      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6635      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6798      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6813      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6712      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783851
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f7982400000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f7982401000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000   8655  10000  10000  10000  10000  10000   9999  10000  10000  10000  10000  10000  10000 
+TEST  10000   6924      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6875      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6898      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6928      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6899      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6942      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6806      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6937      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6933      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6843      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783875
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7efc22a00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7efc22a01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6730      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6813      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6838      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6703      1      0      0      0      2      0      0      0      0      0      0      0      0      0 
+TEST  10000   6774      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6834      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6721      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6759      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6856      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6715      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783899
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f3c14200000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f3c14201000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9999  10000  10000  10000  10000 
+TEST  10000  10000   9994  10000  10000   9944   9720   5647    552      9      0      0      0      0      0      0 
+TEST  10000  10000   9994  10000  10000   8833   9772   5691    536      4      0      0      0      0      0      0 
+TEST  10000  10000   9994  10000  10000   9954   9788   5699    532      4      0      0      0      0      0      0 
+TEST  10000  10000   9995   9981  10000   9948   9741   5463    550      5      0      0      0      0      0      0 
+TEST  10000  10000  10000   9990   9990   9959   9806   5536    539      7      0      0      0      0      0      0 
+TEST  10000  10000  10000   9987   9988   9958   9750   5494    564      6      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9989   9933   9760   5672    581      4      0      0      0      0      0      0 
+TEST  10000  10000  10000   9987  10000   9937   9767   5584    528      2      0      0      0      0      0      0 
+TEST  10000  10000  10000   9992  10000   9963   9779   5531    566      6      0      0      0      0      0      0 
+TEST  10000  10000   9992  10000  10000   9925   9764   5525    567      4      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783924
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fef8a800000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fef8a801000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000   9999  10000  10000  10000  10000  10000  10000  10000   8926  10000  10000  10000  10000  10000 
+TEST  10000   6765      0      0      0      2      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6791      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6784      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6765      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6818      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   5911      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6770      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6803      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6723      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6753      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783948
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fcd13800000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fcd13801000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000   9999  10000  10000  10000  10000  10000  10000  10000   8671  10000 
+TEST  10000   6763      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6785      1      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6835      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6766      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6827      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6670      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6639      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6850      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6804      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6774      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783972
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f926f600000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f926f601000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000   9999  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6784      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6741      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6708      3      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6675      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6668      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6717      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6726      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6710      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6711      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6729      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710783996
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fe3d5600000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fe3d5601000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9999 
+TEST  10000   6862      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6829      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6789      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6889      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6849      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6933      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6840      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6864      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6853      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6878      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784020
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f7d01800000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f7d01801000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6709      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6715      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6772      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6691      0      0      1      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6796      0      0      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6659      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6723      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6742      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6713      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6703      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784044
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f3685c00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f3685c01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6869      1      2      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6838      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6816      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6776      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6853      1      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6734      0      2      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6862      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6845      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6794      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   7210      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784068
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f1662600000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f1662601000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6813      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6821      3      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6771      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6825      1      1      1      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6803      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6825      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6843      1      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6724      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6861      0      0      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6822      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784093
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fb750a00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fb750a01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9999  10000  10000 
+TEST  10000   6916      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6848      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6897      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6999      0      0      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6872      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6817      0      0      0      0      0      1      0      0      0      0      0      0      0      0 
+TEST  10000   6844      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6868      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6948      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6855      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784117
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fba73c00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fba73c01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6719      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6672      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6761      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6751      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6800      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6737      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6773      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6832      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6863      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6697      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784141
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f593ec00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f593ec01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9999  10000  10000  10000  10000 
+TEST  10000   6750      1      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6702      2      3      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6783      0      0      0      2      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6687      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6684      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6668      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6667      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6692      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6793      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6717      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784165
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fdae4400000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fdae4401000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9999  10000  10000 
+TEST  10000   6802      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6791      1      2      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6645      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6681      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6714      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6736      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6735      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6608      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6761      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6683      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784189
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fbf19800000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fbf19801000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000   9819  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000  10000  10000   9937  10000  10000  10000   9845   9383    245      0      0      0      0      0      0 
+TEST  10000  10000  10000   9357  10000  10000  10000   9828   9452    288      0      0      0      0      0      0 
+TEST  10000  10000   9985  10000  10000  10000  10000   9809   9448    259      0      0      0      0      0      0 
+TEST  10000  10000   9970  10000   9973  10000   9941   9809   9460    258      0      0      0      0      0      0 
+TEST  10000  10000   9964   9906  10000  10000  10000   9800   9393    258      0      0      0      0      0      0 
+TEST  10000  10000   9932   8631   9965  10000  10000   9829   9410    299      0      0      0      0      0      0 
+TEST  10000  10000  10000   9914  10000  10000   9974   9840   9427    298      0      0      0      0      0      0 
+TEST  10000  10000  10000   9972   9885  10000  10000   9812   9404    276      0      0      0      0      0      0 
+TEST  10000  10000  10000   9942   9944   8775   9968   9750   9416    302      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9942  10000  10000   9816   9385    287      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784213
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fdf15000000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fdf15001000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6790      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6728      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6713      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6779      2      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6709      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6771      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6766      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6740      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6824      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6718      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784237
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f5990c00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f5990c01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000   9533  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000  10000  10000  10000   9998   9236   6305   2838     21      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   8872   9208   6251   2793     25      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9998   9999   9167   6359   2720     23      0      0      0      0      0      0      0 
+TEST  10000   9999   9999   9999   9999   9146   5907   2760     24      0      0      0      0      0      0      0 
+TEST  10000   9999  10000  10000   9997   9164   6232   2655     20      0      0      0      0      0      0      0 
+TEST  10000   9999  10000  10000   9999   9269   6268   2555     28      1      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9999   9194   6201   2729     13      0      0      0      0      0      0      0 
+TEST  10000  10000   9999  10000   9972   9139   6297   2615     33      2      0      0      0      0      0      0 
+TEST  10000  10000   9999  10000   9997   9137   6193   2700     29      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9999   9154   6252   2698     23      1      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784262
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7ff74d200000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7ff74d201000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   9980   9952   9679   2361   1311      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9977   9937   9676   2385   1242      2      0      0      0      0      0      0      0      0      0 
+TEST  10000   9980   9951   9694   2319   1277    227      2     60      0      0      0      0      0      0      0 
+TEST  10000   9982   9955   9675   2299   1316      1      2      0      0      0      0      0      0      0      0 
+TEST  10000   9986   9947   9664   2328   1284      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   9982   9933   9698   2499   1292      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9987   9955   9666   2305   1289      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9976   9948   9639   2363   1253      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9983   9944   9641   2370   1341      1     32      0      0      0      0      0      0      0      0 
+TEST  10000   9990   9930   9614   2370   1315      2     29      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784286
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f5c39000000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f5c39001000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   9981   9943   9711   2318   1371      4     29      0      0      0      0      0      0      0      0 
+TEST  10000   9991   9957   9676   2450   1315      5      0     61      0      0      0      0      0      0      0 
+TEST  10000   9989   9947   9683   2310   1354      1      2      0      0      0      0      0      0      0      0 
+TEST  10000   9981   9951   9713   2521   1272      2      0     23      0      0      0      0      0      0      0 
+TEST  10000   9987   9948   9708   2357   1335      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9988   9945   9676   2330   1327     31      2     65      0      0      0      0      0      0      0 
+TEST  10000   9983   9959   9630   2403   1299     30      0      0      0      0      0      0      0      0      0 
+TEST  10000   9989   9949   9664   2259   1279      0      3     26      0      0      0      0      0      0      0 
+TEST  10000   9987   9954   9696   2274   1257      3     32      0      0      0      0      0      0      0      0 
+TEST  10000   9983   9946   9679   2300   1282      4      2      0      1      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784310
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f75fb000000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f75fb001000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000   9999  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6816      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6853      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6762      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6772      1      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6797      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6782      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6852      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6861      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6849      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6750      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784335
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f31bf200000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f31bf201000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6818      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6789      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6867      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6844      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6805      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6709      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6844      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6764      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6762      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6829      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784359
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f9793e00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f9793e01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000   9999  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6742      2      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6808      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6874      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6768      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6860      3      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6789      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6918      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6797      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6748      1      1      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6792      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784383
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f8b74e00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f8b74e01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   9985   9921   9656   2402   1320      2      0      0      0      0      0      0      0      0      0 
+TEST  10000   9983   9933   9646   2287   1317      2      1      0      0      0      0      0      0      0      0 
+TEST  10000   9982   9923   9696   2256   1274    262    187    191     30      0      0      0      0      0      0 
+TEST  10000   9375   7268   6950   5882   5669    199    293    352     11      0      0      0      0      0      0 
+TEST  10000   9954   9924   9681   2555   1482    223    179    140      3      0      0      0      0      0      0 
+TEST  10000   9990   9850   9655   2409   1416     83    307    185      3      0      0      0      0      0      0 
+TEST  10000   9985   9923   9683   2302   1393    112     83     90      2      0      0      0      0      0      0 
+TEST  10000   9987   9899   9673   2358   1367      2      0      0      0      0      0      0      0      0      0 
+TEST  10000   9979   9802   9678   2318   1323      0      3      0      0      0      0      0      0      0      0 
+TEST  10000   9991   9922   9632   2230   1360      1      1      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784407
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f90e8200000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f90e8201000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   8677  10000 
+TEST  10000   6816      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6778      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6759      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6735      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6804      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6742      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6838      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6865      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   7108      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6852      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784431
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f787ec00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f787ec01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9999  10000  10000  10000 
+TEST  10000   9990   9961   9691   2331   1307      1      1     27      0      0      0      0      0      0      0 
+TEST  10000   9980   9936   9695   2330   1270      1      1      0      0      0      0      0      0      0      0 
+TEST  10000   9986   9936   9670   2338   1310     60      0      0      0      0      0      0      0      0      0 
+TEST  10000   9988   9943   9693   2293   1259     86     40      0      0      0      0      0      0      0      0 
+TEST  10000   9988   9963   9674   2337   1277      1      0      0      1      0      0      0      0      0      0 
+TEST  10000   9981   9952   9669   2210   1214      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9979   9960   9672   2310   1213      2     94      0      0      0      0      0      0      0      0 
+TEST  10000   9981   9946   9715   2286   1346      2      1      0      0      0      0      0      0      0      0 
+TEST  10000   9981   9956   9667   2390   1198      2      0      0      1      0      0      0      0      0      0 
+TEST  10000   9985   9945   9687   2318   1241      2      0      0      2      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784456
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f3df6c00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f3df6c01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000   9999  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6747      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6797      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6817      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6786      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6837      1      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6851      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6791      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6729      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6675      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6688      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784480
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fd803a00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fd803a01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000  10000  10000  10000   9998   9228   6237   2735     20      0      0      0      0      0      0      0 
+TEST  10000   9999  10000  10000  10000   9225   6232   2617     27      0      0      0      0      0      0      0 
+TEST  10000  10000   9998  10000   9999   9181   6259   2671     24      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000   9114   6273   2588     23      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9996   9198   6224   2560     30      1      0      0      0      0      0      0 
+TEST  10000  10000   9979   9955   9944   9133   6256   2648     30      0      0      0      0      0      0      0 
+TEST  10000  10000   9993  10000   9999   9143   6227   2706     19      1      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9998   9199   6231   2655     29      1      0      0      0      0      0      0 
+TEST  10000  10000  10000   9999   9994   9180   6189   2614     21      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9999   9999   9204   6299   2926     31      1      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784504
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f78d2400000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f78d2401000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY    9999  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6708      1      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6849      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6764      1      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6735      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6749      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6709      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6715      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6720      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6812      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6868      0      1      1      0      1      1      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784528
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fce21000000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fce21001000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000   8651  10000  10000  10000  10000   8653  10000  10000  10000 
+TEST  10000   6803      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6814      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6968      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6726      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6871      3      3      1      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6815      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6813      1      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6901      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6825      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6824      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784552
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fd08ea00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fd08ea01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000   9999   9430  10000  10000  10000  10000  10000 
+TEST  10000   6725      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6770      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6779      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6799      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6697      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6811      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6812      2      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6734      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6741      1      2      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6776      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784577
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f260a800000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f260a801000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6853      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6805      0      1      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6839      0      0      1      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6737      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6722      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6789      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6757      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6765      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6892      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6758      1      2      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784601
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f7523400000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f7523401000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY    9999  10000  10000  10000  10000  10000  10000  10000   8653  10000  10000  10000   8659  10000  10000  10000 
+TEST  10000   6841      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6809      1      0      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6881      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6880      2      2      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6895      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6888      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6894      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6847      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6858      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6819      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784625
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f37dde00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f37dde01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6821      0      2      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6974      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6787      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6847      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6820      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6762      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6833      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6821      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6850      3      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6815      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784649
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fc39cc00000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fc39cc01000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   8672  10000 
+TEST  10000   6773      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6808      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6765      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6858      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6808      0      0      1      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6808      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6893      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6924      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6799      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6826      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784673
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fbedd600000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7fbedd601000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6716      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6746      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6710      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6709      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6771      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6705      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6718      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6664      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6620      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6660      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784697
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f14e7200000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f14e7201000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000  10000   9993   9979   9924   9652   9218   5016    544      2      0      0      0      0      0      0 
+TEST  10000  10000   9999  10000  10000   9938   9755   5567    537      2      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000   9937   9769   5524    533      5      0      0      0      0      0      0 
+TEST  10000  10000   9999   9990  10000   9942   9759   5565    494      4      0      0      0      0      0      0 
+TEST  10000  10000   9993  10000  10000   9930   9790   5493    499      5      0      0      0      0      0      0 
+TEST  10000  10000   9990  10000   9991   9937   9728   5591    563      5      0      0      0      0      0      0 
+TEST  10000  10000   9999   9989   9987   9946   9768   5690    516      6      0      0      0      0      0      0 
+TEST  10000  10000   9991   9959   9991   9943   9771   5552    546      6      0      0      0      0      0      0 
+TEST  10000  10000  10000   9964   9989   9946   9756   5572    504      1      0      0      0      0      0      0 
+TEST  10000  10000  10000   7754   9998   9951   9783   5521    549      4      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784722
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f3567800000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f3567801000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000   9999  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6807      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6830      2      1      1      0    246      0      0      0      0      0      0      0      0      0 
+TEST  10000   6798      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6760      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6783      1      0      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6891      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6849      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6948      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6938      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6843      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784746
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f12b5200000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f12b5201000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9931  10000  10000  10000  10000  10000 
+TEST  10000  10000  10000  10000  10000  10000  10000   9828   9423    253      0      0      0      0      0      0 
+TEST  10000  10000   9919  10000   9892  10000  10000   9798   9205    289      0      0      0      0      0      0 
+TEST   9999  10000   9987  10000  10000  10000   9972   9848   9337    299      0      0      0      0      0      0 
+TEST  10000  10000   9985   9953   9976   9933   9997   9850   9388    307      0      0      0      0      0      0 
+TEST  10000  10000   9985  10000   9974  10000  10000   9805   9413    283      0      0      0      0      0      0 
+TEST  10000  10000   9984   9968   9999   9974  10000   9735   9368    326      0      0      0      0      0      0 
+TEST  10000  10000   9960   9948   9931   9853   9974   9845   9369    294      0      0      0      0      0      0 
+TEST  10000  10000   9984   9971   9907   9882  10000   9813   9415    271      0      0      0      0      0      0 
+TEST  10000  10000   9956   9935   9935  10000  10000   9842   9382    297      0      0      0      0      0      0 
+TEST  10000  10000   9953   9915  10000   9901  10000   9768   9405    303      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784770
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f2c46800000 Kernel huge page addr: 0xffff8881f2c00000
+User FR_BUF: 0x7f2c46801000 Kernel FR_BUF: 0xffff8881f2c01000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000  10000   9647   8472   9998   9250   6194   2778     21      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9999   9999   9176   6236   2687     23      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9996   9183   6183   2734     21      0      0      0      0      0      0      0 
+TEST  10000  10000   9999   9999   9999   9141   6343   2564     29      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9998   9999   9110   6306   2626     22      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9990   9131   6218   2669     24      0      0      0      0      0      0      0 
+TEST  10000  10000   9999   9999   9997   9157   6296   2835     31      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9998   9922   9139   6291   2847     29      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9999   9997   9056   6341   2658     28      1      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9980   9143   6210   2722     25      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784794
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f4e67000000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f4e67001000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9999 
+TEST  10000   6762      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6737      1      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6628      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6790      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6727      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6674      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6791      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6718      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6856      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6826      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784818
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f9fd8800000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f9fd8801000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6705      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6773      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6689      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6652      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6710      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6754      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6757      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6809      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6701      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6629      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784842
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f10cd200000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f10cd201000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   9976   9956   9654   2351   1271     26     27      0      0      0      0      0      0      0      0 
+TEST  10000   9981   9943   9669   2365   1258      3     29      0      0      0      0      0      0      0      0 
+TEST  10000   9970   9951   9648   2374   1318      1     32      0      0      0      0      0      0      0      0 
+TEST  10000   9977   9941   9683   2319   1364      2      2     24      0      0      0      0      0      0      0 
+TEST  10000   9989   9946   9672   2314   1290      2      3      0      0      0      0      0      0      0      0 
+TEST  10000   9976   9940   9652   2349   1164      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9975   9952   9678   2355   1236      1      1      0      0      0      0      0      0      0      0 
+TEST  10000   9987   9940   9665   2328   1182      2      1      0      0      0      0      0      0      0      0 
+TEST  10000   9976   9941   9711   2309   1262      0     26      0      0      0      0      0      0      0      0 
+TEST  10000   9983   9950   9679   2308   1182      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784867
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fc3f1000000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7fc3f1001000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000  10000   9996   9478   9605  10000  10000   9839   9350    208      0      0      0      0      0      0 
+TEST  10000  10000  10000   9999  10000  10000  10000   9828   9445    278      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000  10000  10000   9811   9455    245      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9967   9967  10000   9826   9440    260      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000   9969   9911   9739   9453    302      0      0      0      0      0      0 
+TEST  10000  10000  10000   9999  10000  10000  10000   9815   9466    301      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000  10000   9999   9835   9445    269      0      0      0      0      0      0 
+TEST  10000  10000   9975  10000  10000   9944  10000   8722   9401    238      0      0      0      0      0      0 
+TEST  10000  10000   9985  10000  10000   9971   9999   9808   9411    267      0      0      0      0      0      0 
+TEST  10000  10000   9999  10000  10000  10000  10000   9859   9416    278      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784891
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f2b01000000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f2b01001000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6730      2      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6755      3      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6700      1      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6715      2      2      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6742      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6750      0      0      0      2      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6708      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6705      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6960      0      0      1      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6704      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784916
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f3b51800000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f3b51801000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9999 
+TEST  10000   6880      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6805      3      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6786      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6794      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6745      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6781      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6841      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6800      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6854      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6839      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784940
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f1d5a000000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f1d5a001000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST   9999   6843      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6801      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6868      4      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6841      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6834      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6908      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6820      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6812      0      1      0      0    442      0      0      0      0      0      0      0      0      0 
+TEST  10000   6924      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6789      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784964
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f93aae00000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f93aae01000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   8702  10000  10000   9752  10000  10000 
+TEST  10000   6711      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6722      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6665      1      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6640      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6725      0      1      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6774      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6716      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6996      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6701      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6716      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710784989
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f967e600000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f967e601000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6841      1      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6873      1      2      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6882      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6780      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6846      3      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6942      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6830      1      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6803      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6849      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6856      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785012
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f945be00000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f945be01000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6795      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6809      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6980      0      4      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6884      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6720      0      1      1      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6821      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6817      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6899      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6824      0      1      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6829      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785037
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fe0e9a00000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7fe0e9a01000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000   8699   8700  10000  10000  10000  10000  10000 
+TEST  10000   6836      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6725      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6728      2      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6803      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6752      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6756      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6834      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6669      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6714      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6733      2      1      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785061
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fe2ec000000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7fe2ec001000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000   8702  10000  10000  10000  10000  10000  10000 
+TEST  10000   6643      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6780      4      2      1      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6673      9      5      0      2      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6559      6      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6662      0      2      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6570      1      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6628      0      0      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6693      1      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6738      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6706      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785085
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fdec8000000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7fdec8001000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000   9999  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6799      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6805      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6755      1      2      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6732      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6882      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6786      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6747      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6795      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6720      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6871      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785109
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7efe99400000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7efe99401000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000   8690  10000  10000  10000  10000  10000  10000 
+TEST  10000   6850      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6906      2      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6824      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6855      1      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6817      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6896      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6807      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6796      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6846      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6889      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785133
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f5ea1c00000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f5ea1c01000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000   8661  10000  10000  10000  10000  10000  10000   9999 
+TEST  10000   6841      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6820      0      2      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6787      0      0      0      2      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6743      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST   9999   6891      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6813      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6785      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6789      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6978      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6831      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785157
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f5b05200000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f5b05201000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000   9999  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000  10000  10000   9985   7748   7127   6233   2711     22      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9999   9115   6234   2725     31      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9994   9126   6176   2687     30      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9989   9200   6298   2664     25      0      0      0      0      0      0      0 
+TEST  10000  10000   9848  10000   9998   9089   6164   2683     19      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000   9124   6146   2768     29      0      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9996   9135   6223   2674     20      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   8881   9998   9189   6202   2641     28      0      0      0      0      0      0      0 
+TEST  10000  10000  10000   9967   9995   9133   6219   2717     22      1      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000   9997   9118   6275   2678     22      1      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785181
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fafa7400000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7fafa7401000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6766      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6813      1      2      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6825      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6831      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6791      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6785      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6846      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6849      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6831      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6834      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785205
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f9ebde00000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f9ebde01000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000   8500  10000   9999  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6750      1      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6784      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6729      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6753      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6780      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6632      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6694      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6738      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6756      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6730      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785229
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f40ef800000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f40ef801000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6719      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6767      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6722      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6764      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6799      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6884      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6746      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6830      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6714      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6798      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785254
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f709b800000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f709b801000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000   8838  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6745      0      2      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6813      3      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6718      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6759      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6708      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6760      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST   8677   6785      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6779      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6838      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6761      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785277
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fe9a9200000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7fe9a9201000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6700      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6663      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6737      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6693      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6706      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6759      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6778      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6690      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6651      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6731      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785302
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f57f6600000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f57f6601000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6738      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6830      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6829      1      1      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6810      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6831      0      0      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6751      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6828      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6825      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6876      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6749      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785326
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f3de1a00000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f3de1a01000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000   9999  10000  10000   9988  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6797      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6812      1      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6760      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6768      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST   9999   6798      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6764      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6681      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6859      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6804      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6785      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785350
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f5294a00000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f5294a01000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000   9999  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6726      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6713      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6901      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6761      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6715      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6700      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6759      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6713      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6796      0      0      2      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6722      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785375
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f3239800000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f3239801000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   9977   9946   9687   2375   1252     35      0      0      0      0      0      0      0      0      0 
+TEST  10000   9990   9956   9658   2354   1193      1      1      0      0      0      0      0      0      0      0 
+TEST  10000   9977   9967   9670   2322   1219     32      1      0      0      0      0      0      0      0      0 
+TEST  10000   9988   9943   9679   2345   1243      2      1      0      0      0      0      0      0      0      0 
+TEST  10000   9984   9929   9683   2370   1347     35     59      1      0      0      0      0      0      0      0 
+TEST  10000   9975   9961   9707   2275   1277      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   9983   9941   9680   2383   1211      4      1     26      2      0      0      0      0      0      0 
+TEST  10000   9983   9942   9683   2320   1226      1      0      0      0      0      0      0      0      0      0 
+TEST   9999   9984   9952   9637   2316   1190      1     34      0      0      0      0      0      0      0      0 
+TEST  10000   9975   9954   9691   2379   1262      1      1     34      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785399
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fbabe400000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7fbabe401000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000   9992  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   8731  10000  10000 
+TEST  10000   9980   9939   9714   2295   1307      2      0      0      0      0      0      0      0      0      0 
+TEST  10000   9985   9949   9673   2387   1316      2      0      0      0      0      0      0      0      0      0 
+TEST  10000   9987   9932   9671   2366   1261      1      1      0      0      0      0      0      0      0      0 
+TEST  10000   9984   9940   9679   2358   1262      1      1      0      0      0      0      0      0      0      0 
+TEST  10000   9979   9945   9635   2362   1231      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9975   9963   9669   2381   1238      0      1      0      0      0      0      0      0      0      0 
+TEST  10000   9993   9957   9474   2344   1281      2      1      0      0      0      0      0      0      0      0 
+TEST  10000   9466   9954   9701   2251   1287     39      1      0      0      0      0      0      0      0      0 
+TEST  10000   9981   9947   9648   2371   1192      2      0      0      0      0      0      0      0      0      0 
+TEST  10000   9984   9957   9677   2330   1224     34      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785423
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fd0f9800000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7fd0f9801000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000  10000   9980   9971  10000  10000   9994   7639   9419    245      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000   9916  10000   9840   9428    252      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000  10000   9999   9820   9381    316      0      0      0      0      0      0 
+TEST  10000  10000   9961   9450   9764  10000  10000   9829   9414    351      0      0      0      0      0      0 
+TEST   9999  10000  10000  10000  10000   9172  10000   9833   9422    290      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000   9912   9972   9825   9417    310      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000  10000  10000   9800   9374    310      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000  10000  10000   9800   9426    318      0      0      0      0      0      0 
+TEST  10000  10000  10000   9301  10000  10000  10000   9827   9429    313      0      0      0      0      0      0 
+TEST  10000  10000  10000  10000  10000  10000  10000   9801   8376    287      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785447
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fb15f600000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7fb15f601000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000   9289  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6801      0      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6735      1      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6850      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6702      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6797      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6798      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6789      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6737      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6803      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6767      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785471
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f3d8a800000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f3d8a801000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6819      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6744      0      2      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6836      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6830      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6830      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6808      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6770      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6770      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6717      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6685      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785496
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7ffa2c600000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7ffa2c601000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6829      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6733      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6761      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6711      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6746      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6698      1      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6773      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6756      0      1      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6704      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6729      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785520
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f96efa00000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f96efa01000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6745      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6834      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6789      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6888      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6855      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6724      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6765      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6819      1      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6839      1      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6839      1      0      1      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785545
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fd358400000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7fd358401000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000   9999  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6761      0      2      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6815      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6762      1      0      0      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6801      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6832      2      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6876      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6777      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6831      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6825      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6869      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785569
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fcbbbc00000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7fcbbbc01000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6806      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6698      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6726      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6792      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6772      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6772      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6797      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6772      0      0      1      1      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6798      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6834      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785593
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f2219e00000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f2219e01000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000   9987  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   9981   9929   9669   2295   1269      0      1      0      0      0      0      0      0      0      0 
+TEST  10000   9986   9932   9731   2326   1242      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9985   9944   9699   2406   1245      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9977   9954   9711   2381   1294      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   9985   9931   9681   2382   1274      3      3     27      0      0      0      0      0      0      0 
+TEST  10000   9984   9945   9722   2218   1314      2      0      0      0      0      0      0      0      0      0 
+TEST  10000   9977   9953   9685   2289   1318      0      1      0      1      0      0      0      0      0      0 
+TEST  10000   9979   9953   9684   2078   1286      1      1      0      0      0      0      0      0      0      0 
+TEST  10000   9989   9944   9660   2319   1240      1      1      0      0      0      0      0      0      0      0 
+TEST  10000   9980   9952   9635   2284   1245      1      1      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785617
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7f9b9f600000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7f9b9f601000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000 
+TEST  10000   6718      0      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6731      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6869      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6912      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6792      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6862      0      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6809      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6820      1      0      1      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6860      0      0      0      1      1      0      0      0      0      0      0      0      0      0 
+TEST  10000   6841      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+------------------------------------------------------
+PLEASE CHECK -> TESTING CORE: 2 CONTENTION CORE: 3TESTING AND CONTENTION CORE SHOULD BE SIBLINGS!
+------------------------------------------------------
+Seed: 1710785641
+Direct Physical Map start: 0xffff888000000000
+User huge page addr: 0x7fe993200000 Kernel huge page addr: 0xffff8881ee000000
+User FR_BUF: 0x7fe993201000 Kernel FR_BUF: 0xffff8881ee001000
+Contention: Option 4 (only 8 je)
+------------------------------------------------------
+MODE: fine_ibt
+       1 LD   2 LD   3 LD   4 LD   5 LD   6 LD   7 LD   8 LD   9 LD  10 LD  11 LD  12 LD  13 LD  14 LD  15 LD  16 LD 
+DRY   10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000  10000   9778  10000  10000 
+TEST   9999   6702      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6693      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6691      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6678      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6794      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6723      1      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6631      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6715      1      1      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6741      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+TEST  10000   6705      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
