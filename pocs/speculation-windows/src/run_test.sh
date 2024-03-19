@@ -6,6 +6,8 @@ if [[ $EUID -ne 0 ]]; then
    exit 1
 fi
 
+make -B
+
 echo performance | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor
 
 rm -f -r results
