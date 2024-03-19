@@ -19,33 +19,87 @@ We used Linux kernel v6.6-rc4.
 
 ## Creating the test setup
 
-Please download the kernel v6.6-rc4 source code from [here](https://github.com/torvalds/linux/releases/tag/v6.6-rc4).
-We used the default Ubuntu config with the options `CONFIG_CFI_CLANG` and `CONFIG_FINEIBT` enabled.
-The config used on Raptor Lake (with device specific options enabled) is included in this folder.
-
-### Increase transient window size PoC
-
-The PoC uses a indirect call in syscall 157 as victim. The indirect call
-loads a function address from a read-only after init table
-(e.g., [security_hook_list](https://elixir.bootlin.com/linux/v6.6-rc4/source/security/commoncap.c#L1443)).
-During a attack, the attacker can evict this function table from the cache to
-increase the transient window size. We simulate this in the PoC by
-flushing the table before the indirect call in the kernel code.
-
-The patch available in this folder should be applied
-before compiling the kernel if the PoC wants to be tested.
-
-### Step-by-step
+Build the kernel:
 
 ``` bash
-wget https://github.com/torvalds/linux/archive/refs/tags/v6.6-rc4.tar.gz
-tar -xvf v6.6-rc4.tar.gz
-cd linux-6.6-rc4
-
-cp ../config .config
-# Only required for PoC:
-git apply ../fineibt_poc.patch
-
-make CC=clang-16 bindeb-pkg -j 32
-# Next: install kernel and reboot
+cd kernel
+./build_kernel.sh
 ```
+
+Please add 'isolcpus=2,3' to the kernel boot parameters. Replace
+2 and 3 with the core you want to test the PoC on and the corresponding
+sibling.
+
+Reboot into new kernel. Note: you have to disable secure boot.
+
+## Testing FineIBT Bypass PoC (unix_poll)
+
+First, install the kernel module:
+
+``` bash
+cd kernel_modules/patch_kernel_module
+sudo ./run.sh
+```
+
+To test the leakage rate:
+
+``` bash
+cd fineibt-bypass
+sudo ./run_fast.sh
+```
+
+To test the full PoC, including the collision finding phase.
+Note that the collision-finding phase can take up-to 5 minutes
+
+``` bash
+cd fineibt-bypass
+sudo ./run.sh
+```
+
+Note: Please re-run the PoC a few times and reboot once. The leakage
+rates can differ across boots and runs.
+
+## Testing FineIBT Speculation Windows
+
+First, install the kernel module:
+
+``` bash
+cd kernel_modules/ibt_tests_kernel_module
+sudo ./run.sh
+```
+
+To start the test:
+Please select two performance sibling cores. We selected for the i9-13900K
+and i9-12900K CPUs core 2 and 3 and for the i7-11800H CPU core 2 and 10. Please
+adjust the cores in the file `spec-window-test\targets.h'
+
+The test takes approximately 8 hours. So please run it via a separate session
+(e.g., `tmux`).
+To run the test (adjust the CPU name):
+
+``` bash
+cd spec-window-test
+sudo ./run.sh i9-13900K
+```
+
+To analyze the results:
+
+``` bash
+./analyze_all.sh spec-window-test/results/
+
+# Filter for fine_ibt results:
+./analyze_all.sh spec-window-test/results/ fineibt
+
+# Filter for ibt results:
+./analyze_all.sh spec-window-test/results/ ibt
+```
+
+Our results are included in the folder `spec-window-results`.
+As shown in Table 4 of the paper, we used the following configs for the
+different CPUs.
+
+- i7-11800H: C1 (2 outer 5 inner)
+- i9-12900K: C2 (1 outer 9 inner)
+- i9-13900K: C3 (2 outer 8 inner)
+
+
