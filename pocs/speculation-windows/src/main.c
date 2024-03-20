@@ -95,7 +95,7 @@ int main(int argc, char **argv)
     if (optind + 1 < argc) {
         printf("Usage:\n"
         "%s {ibt, fine_ibt} [options]\n"
-            "  -c CONTENTION          sys_call table offset (hex)\n"
+            "  -c CONTENTION   Contention type (0-4, 0 == No contention)\n"
             , argv[0]);
         exit(1);
     } else if (optind < argc) {
@@ -105,7 +105,7 @@ int main(int argc, char **argv)
         } else if(strcmp(argv[optind], "fine_ibt") == 0) {
             test_mode = 1;
         } else {
-            printf("Invalid test mode, choose between: \n- test_rate \n- leak_dummy \n- leak_shadow\n");
+            printf("Invalid test mode, choose between: \n- ibt \n- fine_ibt\n");
             exit(0);
         }
     }
