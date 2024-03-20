@@ -15,7 +15,7 @@ make CC=clang-16 olddefconfig
 
 # Build and install
 make CC=clang-16 -j `nproc`
-make CC=clang-16 modules_install -j `nproc`
-make CC=clang-16 install -j `nproc`
+sudo make CC=clang-16 modules_install -j `nproc`
+sudo make CC=clang-16 install -j `nproc`
 
-echo "Please reboot into the kernel: linux-6.6.0-rc4-fineibt"
+echo "Please reboot into the kernel: linux-6.6.0-rc4-fineibt-poc"

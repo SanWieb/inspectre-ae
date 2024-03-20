@@ -45,7 +45,7 @@ make olddefconfig
 
 # Build and install
 make -j `nproc`
-make modules_install -j `nproc`
-make install -j `nproc`
+sudo make modules_install -j `nproc`
+sudo make install -j `nproc`
 
 echo "Please reboot into the kernel: linux-6.6.0-rc4"
